@@ -1,7 +1,7 @@
 A minimal corona tracker app built using React Js, Material UI and React-Simple-Maps.
 
 ## API'S Used:
-https://corona.lmao.ninja/all
+https://corona.lmao.ninja/all</br>
 https://corona.lmao.ninja/countries?sort=cases
 
 ## Available Scripts
