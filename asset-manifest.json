@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coronatracker/static/css/main.cdc16222.chunk.css",
-    "main.js": "/coronatracker/static/js/main.95f4f3cd.chunk.js",
-    "main.js.map": "/coronatracker/static/js/main.95f4f3cd.chunk.js.map",
+    "main.js": "/coronatracker/static/js/main.82b430c5.chunk.js",
+    "main.js.map": "/coronatracker/static/js/main.82b430c5.chunk.js.map",
     "runtime-main.js": "/coronatracker/static/js/runtime-main.0e04e4cd.js",
     "runtime-main.js.map": "/coronatracker/static/js/runtime-main.0e04e4cd.js.map",
     "static/js/2.157dc425.chunk.js": "/coronatracker/static/js/2.157dc425.chunk.js",
     "static/js/2.157dc425.chunk.js.map": "/coronatracker/static/js/2.157dc425.chunk.js.map",
     "index.html": "/coronatracker/index.html",
-    "precache-manifest.d17694b99d0942d2f5dfcee47ab03d30.js": "/coronatracker/precache-manifest.d17694b99d0942d2f5dfcee47ab03d30.js",
+    "precache-manifest.db32d0ad74ca62531207eabb61ec1480.js": "/coronatracker/precache-manifest.db32d0ad74ca62531207eabb61ec1480.js",
     "service-worker.js": "/coronatracker/service-worker.js",
     "static/css/main.cdc16222.chunk.css.map": "/coronatracker/static/css/main.cdc16222.chunk.css.map",
     "static/js/2.157dc425.chunk.js.LICENSE.txt": "/coronatracker/static/js/2.157dc425.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0e04e4cd.js",
     "static/js/2.157dc425.chunk.js",
     "static/css/main.cdc16222.chunk.css",
-    "static/js/main.95f4f3cd.chunk.js"
+    "static/js/main.82b430c5.chunk.js"
   ]
 }
